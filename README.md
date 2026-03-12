@@ -42,5 +42,5 @@ This repository contains my personal, academic, and experimental projects.
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=lucasciarinii&show_icons=true&theme=tokyonight)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=lucasciarinii&layout=compact&theme=tokyonight)
 
-## 📫 Contatti
+## 📫 Contacts
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/luca-sciarini-775b13201)
