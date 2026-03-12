@@ -1,39 +1,41 @@
-# Ciao, sono Luca Sciarini 👋
+# Hi, I'm Luca Sciarini 👋
 
-Studente di **Ingegneria Informatica** al Politecnico di Milano, con una solida base di 5 anni di formazione tecnica in ambito informatico.
+Computer Engineering student at `Politecnico di Milano`, with a solid 5-year technical background in computer science.
 
-## 🎓 Formazione & Certificazioni
-- 🏛️ Ingegneria Informatica — Politecnico di Milano *(in corso)*
+## 🎓 Education, Certifications & Awards
+- 🏛️ Bachelor in Computer Engineering — Politecnico di Milano (ongoing)
 - 📜 ICDL Full Standard
 - 🇬🇧 Cambridge FIRST (C1 in speaking)
 - 🌐 Cisco CCNA1
-- 🏆 Borsa di studio per merito — Confindustria Varese
+- 🏆 Merit scholarship — Confindustria Varese
 
-## 🛠️ Tecnologie & Strumenti
+## 🛠️ Technologies & Tools
 
-**Linguaggi**
+**Languages**
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
-
-**Frontend**
-
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+**Web Frontend**  
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)  
 
-**Mobile**
+**Desktop Frontend**   
+![WPF](https://img.shields.io/badge/WPF-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![JavaFX](https://img.shields.io/badge/JavaFX-FF6B35?style=for-the-badge&logo=java&logoColor=white)
 
+**Mobile**  
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 
-## 📈 Cosa trovi qui
-In questa repository trovi i miei progetti personali, universitari e sperimentali. Ogni repo è un pezzo del mio percorso di crescita come sviluppatore.  
-(La maggior parte delle repository sono private. Sto lavorando per renderle pubbliche il prima possibile).
+## 📈 What you'll find here
+This repository contains my personal, academic, and experimental projects.  
+(*Private repos include client work and third-party projects. Working to make specific projects public soon*).
 
 ## 📊 GitHub Stats
 
