@@ -5,8 +5,8 @@ Studente di **Ingegneria Informatica** al Politecnico di Milano, con una solida 
 ## 🎓 Formazione & Certificazioni
 - 🏛️ Ingegneria Informatica — Politecnico di Milano *(in corso)*
 - 📜 ICDL Full Standard
-- 🌐 Cambridge FIRST (C1 in speaking)
-- 🔗 Cisco CCNA1
+- 🇬🇧 Cambridge FIRST (C1 in speaking)
+- 🌐 Cisco CCNA1
 - 🏆 Borsa di studio per merito — Confindustria Varese
 
 ## 🛠️ Tecnologie & Strumenti
