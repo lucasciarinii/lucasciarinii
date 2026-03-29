@@ -3,6 +3,7 @@
 Computer Engineering student at `Politecnico di Milano`, with a solid 5-year technical background in computer science.
 
 ## 🎓 Education, Certifications & Awards
+- 📚 High School Diploma in Computer Science
 - 🏛️ Bachelor in Computer Engineering — Politecnico di Milano (ongoing)
 - 📜 ICDL Full Standard
 - 🇬🇧 Cambridge FIRST (C1 in speaking)
