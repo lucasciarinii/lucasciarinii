@@ -5,7 +5,7 @@ Computer Engineer (BSc) from `Politecnico di Milano` — Italy's #1 university a
 ## 🎓 Education, Certifications & Awards
 - 📚 High School Diploma in Computer Science
 - 🎓 BSc in Computer Engineering — Politecnico di Milano (graduated)
-- 🏛️ MSc in Computer Science — SUPSI (ongoing)
+- 🏛️ MSc in Computer Engineering — SUPSI (ongoing)
 - 📜 ICDL Full Standard
 - 🇬🇧 Cambridge FIRST (C1 in speaking)
 - 🌐 Cisco CCNA1
